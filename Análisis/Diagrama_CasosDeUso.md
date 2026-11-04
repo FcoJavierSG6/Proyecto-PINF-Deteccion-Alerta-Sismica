@@ -23,32 +23,29 @@ Permite al usuario visualizar en un mapa la ubicación de los terremotos registr
 ### **— CU-05. Consultar ficha de terremoto**
 Permite al usuario consultar la información detallada de un terremoto, incluyendo fecha y hora, coordenadas, profundidad, magnitud, zona, identificador y estado de revisión.
 
-### **— CU-06. Consultar ubicación y distancia del terremoto**
-Permite al usuario conocer su ubicación en el mapa y la distancia aproximada respecto al epicentro de un terremoto, siempre que haya concedido los permisos necesarios.
-
-### **— CU-07. Consultar estaciones sísmicas**
+### **— CU-06. Consultar estaciones sísmicas**
 Permite al usuario visualizar u ocultar en el mapa las estaciones sísmicas pertenecientes a la red del ROA.
 
-### **— CU-08. Compartir información de un terremoto**
+### **— CU-07. Compartir información de un terremoto**
 Permite al usuario compartir la información de un terremoto mediante aplicaciones externas de comunicación, como WhatsApp, correo electrónico o redes sociales.
 
-### **— CU-09. Configurar avisos de terremotos**
+### **— CU-08. Configurar avisos de terremotos**
 Permite al usuario establecer los criterios de recepción de avisos, incluyendo magnitud mínima, zona geográfica y activación o desactivación de las notificaciones, así como su modalidad sonora o silenciosa.
 
-### **— CU-10. Recibir aviso de terremoto**
+### **— CU-09. Recibir aviso de terremoto**
 Permite al usuario recibir notificaciones en su dispositivo cuando el ROA publique un terremoto que cumpla los criterios establecidos, evitando avisos duplicados salvo cambios significativos en la magnitud.
 
-### **— CU-11. Enviar informe «¿Lo has sentido?»**
+### **— CU-10. Enviar informe «¿Lo has sentido?»**
 Permite al usuario comunicar si ha sentido un terremoto mediante un cuestionario que recoge su ubicación aproximada, las sensaciones experimentadas y posibles daños observados, enviando las respuestas al servicio web del ROA.
 
-### **— CU-12. Consultar información del ROA**
+### **— CU-11. Consultar información del ROA**
 Permite al usuario consultar información sobre el Observatorio, la Sección de Geofísica y su red sísmica, incluyendo un enlace a la página web oficial.
 
-### **— CU-13. Consultar recomendaciones de seguridad sísmica**
+### **— CU-12. Consultar recomendaciones de seguridad sísmica**
 Permite al usuario acceder a recomendaciones sobre cómo actuar antes, durante y después de un terremoto.
 
-### **— CU-14. Consultar glosario sísmico**
+### **— CU-13. Consultar glosario sísmico**
 Permite al usuario consultar definiciones de términos relacionados con la actividad sísmica, como magnitud, intensidad, epicentro y profundidad.
 
-### **— CU-15. Configurar preferencias de la aplicación**
+### **— CU-14. Configurar preferencias de la aplicación**
 Permite al usuario configurar sus preferencias generales, incluyendo los avisos, las unidades de medida y el formato de hora.
