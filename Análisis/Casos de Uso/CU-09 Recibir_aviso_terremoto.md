@@ -19,6 +19,9 @@ en la configuración.
 ### Postcondiciones
 * El usuario ha recibido la notificación correctamente y queda informado.
 
+### Puntos de extensión
+* **Consultar ficha de terremoto**. Al recibir el aviso, el usuario tiene la opción de pinchar en el aviso y consultar dicho terremoto.
+
 ### Flujos alternativos
 
 * **2a. Configuración deniega la notificación.**
