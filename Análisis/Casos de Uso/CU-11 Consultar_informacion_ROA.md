@@ -3,7 +3,7 @@
 * **Actor principal:** Usuario.
 * **Actores secundarios:** Servidor Web ROA.
 * **Descripción:** Permite al usuario consultar información sobre el Observatorio, la Sección de Geofísica y su red sísmica, incluyendo un enlace a la página web oficial.
-* **Precondiciones:** El usuario debe seleccionar estar en el menú principal.
+* **Precondiciones:** El usuario debe estar en el menú principal.
 
 ### Flujo principal
 1. El usuario selecciona desde el menú el desplegable de opciones principales (Información ROA, Recomendaciones de seguridad sísmica ...).
