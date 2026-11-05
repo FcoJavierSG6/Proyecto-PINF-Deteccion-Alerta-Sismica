@@ -1,7 +1,7 @@
 ## CU-07. Compartir información de un terremoto
 
 * **Actor principal:** Usuario.
-* **Actores secundarios:** -
+* **Actores secundarios:** Servidor/App externa para compartir.
 * **Descripción:** Permite al usuario compartir la información de un terremoto mediante aplicaciones externas de comunicación, como WhatsApp, correo electrónico o redes sociales.
 * **Precondiciones:** El usuario pulsa 'Compartir' desde la opción de 'Consultar Terremoto'. El dispositivo también debe tener conexión.
 
